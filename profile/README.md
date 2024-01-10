@@ -11,7 +11,7 @@ dispersion of the original members.  This organization on GitHub contains some
 projects that are being developed to share the original spirit of this group.
 
 
-## Other projects:
+## Other projects
 
 - A [technology company in Chile][chile].
 
