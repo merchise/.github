@@ -7,13 +7,19 @@ group][wiki] created around 1991 at the Central University of Las Villas
 [wiki]: https://en.wikipedia.org/wiki/Merchise
 
 Several projects have existed in different parts of the world due to the
-dispersion of the original members.  This organization on GitHub contains some
-projects that are being developed to share the original spirit of this group.
+dispersion of the original members.
+
+
+## This organization on GitHub
+
+Here we have a collection of past, or present projects, that are generic
+(Common Systems layer) or are being developed to share the original spirit of
+this group.
 
 
 ## Other projects
 
-- A [technology company in Chile][chile].
+- [Merchise Ltda][chile]: A technology company in Chile.
 
 - [Merchise Startup Circle][msc]: After relations between Cuba and The US were
   "restored", a movement was created for former members of the original group
